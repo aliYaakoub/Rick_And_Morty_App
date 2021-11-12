@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
-import LocationCard from '../cards/LocationCard'
 
 const LocationDetail = ({url}) => {
 
